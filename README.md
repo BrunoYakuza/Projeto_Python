@@ -3,7 +3,7 @@
 Este repositório contém meus estudos em Python.
 Sou iniciante e estou aprendendo aos poucos, focando em lógica e fundamentos.
 
-## O que estou aprendendo
+## Aprendendo:
 - Variáveis
 - Tipos de dados
 - Condições (if / else)
