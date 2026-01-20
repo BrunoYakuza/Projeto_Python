@@ -1,4 +1,4 @@
-## :snowman: Olá, me chamo Bruno. Muito prazer!
+## :snowman: Olá, meu nome é Bruno. Muito prazer!
 Bem-vindo ao meu perfil GitHub.
 * :mortar_board: Estudante de **Análise e Desenvolvimento de Sistemas** pela **Anhanguera**.
 * :computer: Focado em **Desenvolvimento Back-end**.
